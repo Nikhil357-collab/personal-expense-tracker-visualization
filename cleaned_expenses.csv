@@ -1,0 +1,301 @@
+date,category,amount,payment_method,note,month,day
+2025-02-24,Food,2790.88,Credit Card,Lunch,2025-02,Monday
+2025-05-15,Shopping,2427.48,Cash,Medicine,2025-05,Thursday
+2025-02-03,Bills,1448.85,Debit Card,Online Course,2025-02,Monday
+2025-05-04,Travel,3807.9,Credit Card,Electricity Bill,2025-05,Sunday
+2025-04-24,Education,3781.77,Cash,Movie,2025-04,Thursday
+2025-01-13,Shopping,1925.85,Debit Card,Movie,2025-01,Monday
+2025-03-26,Travel,4499.11,Cash,Online Course,2025-03,Wednesday
+2025-05-23,Transport,2763.28,Cash,Electricity Bill,2025-05,Friday
+2025-06-14,Bills,1692.87,Credit Card,Movie,2025-06,Saturday
+2025-06-26,Healthcare,4012.74,Credit Card,Online Course,2025-06,Thursday
+2025-05-08,Travel,2452.09,Cash,Fuel,2025-05,Thursday
+2025-03-20,Bills,2964.55,Cash,Online Course,2025-03,Thursday
+2025-03-25,Travel,1847.6,UPI,Lunch,2025-03,Tuesday
+2025-05-13,Entertainment,3482.18,Debit Card,Fuel,2025-05,Tuesday
+2025-06-30,Bills,1767.96,Credit Card,Electricity Bill,2025-06,Monday
+2025-04-17,Travel,1694.91,UPI,Lunch,2025-04,Thursday
+2025-06-08,Healthcare,868.11,Credit Card,Electricity Bill,2025-06,Sunday
+2025-03-02,Bills,844.3,Cash,Electricity Bill,2025-03,Sunday
+2025-02-12,Education,2062.21,UPI,Online Course,2025-02,Wednesday
+2025-05-07,Education,2713.41,Credit Card,Groceries,2025-05,Wednesday
+2025-03-16,Shopping,3073.67,UPI,Fuel,2025-03,Sunday
+2025-02-27,Food,328.72,Credit Card,Lunch,2025-02,Thursday
+2025-02-25,Education,4502.91,Cash,Lunch,2025-02,Tuesday
+2025-01-04,Education,54.61,Credit Card,Bus Ticket,2025-01,Saturday
+2025-01-07,Food,4260.55,Cash,Lunch,2025-01,Tuesday
+2025-01-31,Entertainment,2751.19,Credit Card,Groceries,2025-01,Friday
+2025-06-28,Education,4469.87,Cash,Electricity Bill,2025-06,Saturday
+2025-03-20,Healthcare,2507.54,Debit Card,Movie,2025-03,Thursday
+2025-06-28,Travel,4078.83,UPI,Bus Ticket,2025-06,Saturday
+2025-01-26,Healthcare,2728.32,UPI,Bus Ticket,2025-01,Sunday
+2025-04-26,Food,4027.35,Debit Card,Movie,2025-04,Saturday
+2025-02-07,Transport,4270.58,Debit Card,Movie,2025-02,Friday
+2025-04-13,Travel,1384.87,Credit Card,Online Course,2025-04,Sunday
+2025-06-14,Transport,4568.73,Cash,Lunch,2025-06,Saturday
+2025-03-17,Shopping,3730.94,Cash,Fuel,2025-03,Monday
+2025-02-08,Transport,1088.95,Cash,Electricity Bill,2025-02,Saturday
+2025-03-27,Travel,1005.12,UPI,Medicine,2025-03,Thursday
+2025-06-05,Shopping,1566.67,Cash,Bus Ticket,2025-06,Thursday
+2025-01-09,Food,481.09,Credit Card,Electricity Bill,2025-01,Thursday
+2025-02-24,Shopping,2654.57,UPI,Lunch,2025-02,Monday
+2025-03-02,Bills,2024.71,Cash,Movie,2025-03,Sunday
+2025-01-09,Shopping,462.62,UPI,Online Course,2025-01,Thursday
+2025-03-16,Travel,1865.39,Cash,Lunch,2025-03,Sunday
+2025-03-20,Education,904.89,Credit Card,Groceries,2025-03,Thursday
+2025-01-29,Healthcare,1460.63,Credit Card,Groceries,2025-01,Wednesday
+2025-05-25,Shopping,3429.18,Cash,Bus Ticket,2025-05,Sunday
+2025-06-26,Food,352.88,Cash,Lunch,2025-06,Thursday
+2025-03-11,Travel,991.15,UPI,Movie,2025-03,Tuesday
+2025-04-20,Entertainment,1464.51,Debit Card,Groceries,2025-04,Sunday
+2025-03-14,Transport,3645.82,Debit Card,Groceries,2025-03,Friday
+2025-04-18,Food,177.25,Cash,Groceries,2025-04,Friday
+2025-01-01,Food,279.1,UPI,Medicine,2025-01,Wednesday
+2025-01-21,Education,4097.33,Credit Card,Lunch,2025-01,Tuesday
+2025-02-12,Bills,559.2,Debit Card,Movie,2025-02,Wednesday
+2025-05-01,Bills,3053.14,Debit Card,Fuel,2025-05,Thursday
+2025-06-05,Healthcare,3605.25,Credit Card,Groceries,2025-06,Thursday
+2025-04-13,Shopping,4849.54,UPI,Fuel,2025-04,Sunday
+2025-02-19,Bills,2990.96,Debit Card,Medicine,2025-02,Wednesday
+2025-03-16,Healthcare,3383.77,UPI,Bus Ticket,2025-03,Sunday
+2025-04-14,Education,4581.87,Credit Card,Lunch,2025-04,Monday
+2025-01-02,Transport,4520.35,Cash,Online Course,2025-01,Thursday
+2025-04-10,Bills,2590.51,Debit Card,Medicine,2025-04,Thursday
+2025-05-04,Shopping,3446.3,Debit Card,Electricity Bill,2025-05,Sunday
+2025-01-20,Shopping,1476.86,Cash,Online Course,2025-01,Monday
+2025-06-17,Transport,410.87,UPI,Movie,2025-06,Tuesday
+2025-05-12,Transport,851.06,Debit Card,Fuel,2025-05,Monday
+2025-01-29,Healthcare,1932.71,UPI,Medicine,2025-01,Wednesday
+2025-04-02,Travel,632.27,UPI,Fuel,2025-04,Wednesday
+2025-04-01,Travel,4800.43,Credit Card,Medicine,2025-04,Tuesday
+2025-05-01,Food,2525.56,Debit Card,Fuel,2025-05,Thursday
+2025-06-01,Transport,1322.06,Cash,Medicine,2025-06,Sunday
+2025-02-15,Shopping,2801.92,Cash,Electricity Bill,2025-02,Saturday
+2025-02-02,Shopping,1084.68,Cash,Fuel,2025-02,Sunday
+2025-06-03,Travel,1181.41,Cash,Movie,2025-06,Tuesday
+2025-03-08,Education,521.83,Cash,Bus Ticket,2025-03,Saturday
+2025-04-10,Education,1510.98,Debit Card,Lunch,2025-04,Thursday
+2025-01-26,Education,2562.99,Credit Card,Fuel,2025-01,Sunday
+2025-04-16,Transport,238.86,Credit Card,Online Course,2025-04,Wednesday
+2025-04-11,Travel,2330.53,UPI,Online Course,2025-04,Friday
+2025-04-05,Food,3708.36,Cash,Lunch,2025-04,Saturday
+2025-01-25,Travel,4940.56,Debit Card,Lunch,2025-01,Saturday
+2025-01-06,Transport,1679.66,Cash,Medicine,2025-01,Monday
+2025-03-13,Entertainment,2010.43,UPI,Lunch,2025-03,Thursday
+2025-02-10,Entertainment,232.11,UPI,Fuel,2025-02,Monday
+2025-05-23,Food,3858.06,Cash,Online Course,2025-05,Friday
+2025-04-11,Shopping,3983.29,Cash,Medicine,2025-04,Friday
+2025-03-11,Transport,2517.67,UPI,Movie,2025-03,Tuesday
+2025-06-10,Food,4327.01,Credit Card,Movie,2025-06,Tuesday
+2025-05-19,Healthcare,4725.98,Credit Card,Electricity Bill,2025-05,Monday
+2025-05-21,Shopping,293.23,Credit Card,Bus Ticket,2025-05,Wednesday
+2025-02-13,Transport,4894.2,UPI,Bus Ticket,2025-02,Thursday
+2025-03-20,Healthcare,3435.03,UPI,Electricity Bill,2025-03,Thursday
+2025-01-18,Healthcare,1132.14,UPI,Medicine,2025-01,Saturday
+2025-03-26,Education,761.09,Debit Card,Lunch,2025-03,Wednesday
+2025-03-02,Healthcare,757.61,Credit Card,Bus Ticket,2025-03,Sunday
+2025-04-22,Education,717.01,Credit Card,Bus Ticket,2025-04,Tuesday
+2025-03-04,Travel,508.62,Cash,Fuel,2025-03,Tuesday
+2025-04-26,Food,4338.91,Debit Card,Fuel,2025-04,Saturday
+2025-03-18,Food,2273.05,Credit Card,Groceries,2025-03,Tuesday
+2025-06-04,Entertainment,215.91,UPI,Lunch,2025-06,Wednesday
+2025-03-04,Shopping,3026.58,UPI,Electricity Bill,2025-03,Tuesday
+2025-01-10,Transport,316.3,Credit Card,Online Course,2025-01,Friday
+2025-06-14,Education,4276.56,UPI,Medicine,2025-06,Saturday
+2025-01-17,Entertainment,1790.97,Credit Card,Movie,2025-01,Friday
+2025-05-01,Food,1085.47,Cash,Movie,2025-05,Thursday
+2025-06-27,Education,1510.73,Cash,Medicine,2025-06,Friday
+2025-02-03,Education,2256.81,UPI,Lunch,2025-02,Monday
+2025-03-19,Food,1140.59,UPI,Lunch,2025-03,Wednesday
+2025-05-15,Transport,4708.69,Cash,Lunch,2025-05,Thursday
+2025-01-21,Entertainment,2467.37,Cash,Groceries,2025-01,Tuesday
+2025-06-03,Entertainment,2288.76,Credit Card,Groceries,2025-06,Tuesday
+2025-03-09,Education,718.05,UPI,Movie,2025-03,Sunday
+2025-01-04,Food,4988.65,Credit Card,Electricity Bill,2025-01,Saturday
+2025-04-08,Healthcare,1130.46,UPI,Bus Ticket,2025-04,Tuesday
+2025-03-15,Food,4538.55,UPI,Medicine,2025-03,Saturday
+2025-02-12,Shopping,1458.62,Credit Card,Electricity Bill,2025-02,Wednesday
+2025-02-23,Healthcare,2729.45,Debit Card,Fuel,2025-02,Sunday
+2025-05-22,Transport,1519.9,Cash,Bus Ticket,2025-05,Thursday
+2025-06-26,Food,3959.51,Cash,Online Course,2025-06,Thursday
+2025-05-20,Bills,3718.91,Debit Card,Medicine,2025-05,Tuesday
+2025-01-09,Transport,769.15,Cash,Electricity Bill,2025-01,Thursday
+2025-04-22,Travel,2654.01,Debit Card,Electricity Bill,2025-04,Tuesday
+2025-01-21,Shopping,351.28,Credit Card,Bus Ticket,2025-01,Tuesday
+2025-05-11,Education,4141.27,Cash,Fuel,2025-05,Sunday
+2025-03-21,Healthcare,2302.03,Debit Card,Movie,2025-03,Friday
+2025-06-07,Transport,303.19,UPI,Movie,2025-06,Saturday
+2025-04-17,Transport,2376.25,Credit Card,Online Course,2025-04,Thursday
+2025-04-10,Shopping,2889.31,UPI,Lunch,2025-04,Thursday
+2025-04-12,Entertainment,3518.47,Cash,Groceries,2025-04,Saturday
+2025-01-17,Education,2948.05,Credit Card,Medicine,2025-01,Friday
+2025-04-06,Transport,1818.17,Debit Card,Groceries,2025-04,Sunday
+2025-05-04,Shopping,2570.06,Credit Card,Fuel,2025-05,Sunday
+2025-03-28,Education,2722.44,Debit Card,Movie,2025-03,Friday
+2025-01-20,Transport,474.5,UPI,Movie,2025-01,Monday
+2025-05-14,Education,1395.17,Credit Card,Online Course,2025-05,Wednesday
+2025-04-29,Food,127.48,Credit Card,Lunch,2025-04,Tuesday
+2025-05-16,Education,3873.39,Cash,Groceries,2025-05,Friday
+2025-05-11,Food,4094.84,Credit Card,Bus Ticket,2025-05,Sunday
+2025-05-11,Food,1603.15,Debit Card,Bus Ticket,2025-05,Sunday
+2025-06-07,Travel,4748.09,Cash,Lunch,2025-06,Saturday
+2025-02-12,Food,2287.89,Cash,Fuel,2025-02,Wednesday
+2025-01-05,Bills,195.82,UPI,Fuel,2025-01,Sunday
+2025-05-30,Shopping,1694.13,Credit Card,Groceries,2025-05,Friday
+2025-06-25,Bills,1612.05,Cash,Online Course,2025-06,Wednesday
+2025-01-24,Shopping,3338.97,Cash,Electricity Bill,2025-01,Friday
+2025-01-19,Travel,2005.76,Debit Card,Medicine,2025-01,Sunday
+2025-03-03,Food,4280.04,Credit Card,Online Course,2025-03,Monday
+2025-04-25,Transport,4869.19,Cash,Groceries,2025-04,Friday
+2025-02-13,Education,2612.24,Debit Card,Lunch,2025-02,Thursday
+2025-05-26,Entertainment,3605.9,Debit Card,Electricity Bill,2025-05,Monday
+2025-03-16,Education,4080.65,Cash,Medicine,2025-03,Sunday
+2025-01-27,Transport,3778.12,Cash,Medicine,2025-01,Monday
+2025-03-14,Transport,1115.84,Cash,Movie,2025-03,Friday
+2025-03-10,Travel,3690.77,Cash,Lunch,2025-03,Monday
+2025-06-27,Education,4836.66,Cash,Bus Ticket,2025-06,Friday
+2025-04-30,Education,3544.65,Credit Card,Electricity Bill,2025-04,Wednesday
+2025-06-09,Entertainment,4306.48,Debit Card,Bus Ticket,2025-06,Monday
+2025-03-21,Education,1085.47,Cash,Movie,2025-03,Friday
+2025-03-27,Transport,3105.2,Debit Card,Movie,2025-03,Thursday
+2025-06-18,Travel,1315.26,Credit Card,Lunch,2025-06,Wednesday
+2025-02-17,Entertainment,2252.52,UPI,Movie,2025-02,Monday
+2025-02-25,Healthcare,3128.94,Debit Card,Bus Ticket,2025-02,Tuesday
+2025-03-26,Food,4450.84,Cash,Groceries,2025-03,Wednesday
+2025-06-14,Travel,2194.03,Cash,Electricity Bill,2025-06,Saturday
+2025-03-04,Bills,2297.8,Credit Card,Electricity Bill,2025-03,Tuesday
+2025-02-01,Travel,4622.44,Cash,Bus Ticket,2025-02,Saturday
+2025-03-12,Food,1837.99,UPI,Bus Ticket,2025-03,Wednesday
+2025-01-30,Travel,4514.99,UPI,Online Course,2025-01,Thursday
+2025-04-14,Entertainment,849.29,Credit Card,Movie,2025-04,Monday
+2025-05-02,Transport,4357.63,UPI,Medicine,2025-05,Friday
+2025-04-02,Healthcare,4202.95,Credit Card,Medicine,2025-04,Wednesday
+2025-05-07,Food,1636.97,UPI,Fuel,2025-05,Wednesday
+2025-04-28,Food,1358.08,Credit Card,Bus Ticket,2025-04,Monday
+2025-02-17,Transport,3359.84,UPI,Movie,2025-02,Monday
+2025-02-24,Healthcare,4067.92,Credit Card,Groceries,2025-02,Monday
+2025-03-12,Entertainment,1116.6,UPI,Lunch,2025-03,Wednesday
+2025-04-22,Healthcare,3550.03,Cash,Lunch,2025-04,Tuesday
+2025-05-15,Transport,1305.15,Cash,Bus Ticket,2025-05,Thursday
+2025-06-16,Transport,4684.26,Debit Card,Groceries,2025-06,Monday
+2025-01-27,Bills,4554.31,Credit Card,Fuel,2025-01,Monday
+2025-04-18,Entertainment,4072.43,Cash,Fuel,2025-04,Friday
+2025-06-23,Travel,4545.01,UPI,Electricity Bill,2025-06,Monday
+2025-03-18,Shopping,4601.93,Debit Card,Lunch,2025-03,Tuesday
+2025-03-11,Bills,4988.47,Debit Card,Bus Ticket,2025-03,Tuesday
+2025-02-15,Entertainment,3017.59,UPI,Medicine,2025-02,Saturday
+2025-03-11,Bills,1897.06,Debit Card,Bus Ticket,2025-03,Tuesday
+2025-01-18,Bills,4463.99,Debit Card,Medicine,2025-01,Saturday
+2025-04-12,Healthcare,1037.04,UPI,Electricity Bill,2025-04,Saturday
+2025-01-28,Education,4270.45,Credit Card,Medicine,2025-01,Tuesday
+2025-04-09,Transport,3264.57,Credit Card,Medicine,2025-04,Wednesday
+2025-06-09,Travel,4198.79,Debit Card,Electricity Bill,2025-06,Monday
+2025-05-21,Healthcare,2605.53,Credit Card,Movie,2025-05,Wednesday
+2025-01-20,Transport,2449.3,Credit Card,Bus Ticket,2025-01,Monday
+2025-06-13,Transport,1549.78,UPI,Online Course,2025-06,Friday
+2025-02-16,Transport,2330.3,Cash,Medicine,2025-02,Sunday
+2025-03-30,Education,2706.08,Debit Card,Electricity Bill,2025-03,Sunday
+2025-05-15,Shopping,2476.83,UPI,Electricity Bill,2025-05,Thursday
+2025-04-15,Travel,707.77,UPI,Movie,2025-04,Tuesday
+2025-03-12,Travel,1714.66,Credit Card,Movie,2025-03,Wednesday
+2025-06-28,Education,1179.23,Cash,Lunch,2025-06,Saturday
+2025-02-15,Travel,143.28,Credit Card,Groceries,2025-02,Saturday
+2025-04-19,Transport,1850.51,Debit Card,Groceries,2025-04,Saturday
+2025-03-30,Shopping,3874.09,Credit Card,Lunch,2025-03,Sunday
+2025-04-21,Shopping,2586.9,Debit Card,Fuel,2025-04,Monday
+2025-05-27,Bills,4465.15,Cash,Online Course,2025-05,Tuesday
+2025-02-13,Healthcare,3305.44,Cash,Bus Ticket,2025-02,Thursday
+2025-06-09,Travel,633.51,Cash,Fuel,2025-06,Monday
+2025-05-14,Shopping,210.29,Cash,Groceries,2025-05,Wednesday
+2025-06-27,Healthcare,1768.2,Cash,Electricity Bill,2025-06,Friday
+2025-05-13,Bills,2032.34,Cash,Electricity Bill,2025-05,Tuesday
+2025-06-16,Entertainment,3810.33,Debit Card,Movie,2025-06,Monday
+2025-04-30,Education,2974.97,Cash,Movie,2025-04,Wednesday
+2025-01-18,Healthcare,3060.25,Debit Card,Medicine,2025-01,Saturday
+2025-02-10,Food,3411.23,Cash,Lunch,2025-02,Monday
+2025-04-07,Food,4905.91,UPI,Groceries,2025-04,Monday
+2025-02-16,Travel,1540.79,Debit Card,Bus Ticket,2025-02,Sunday
+2025-03-14,Healthcare,1115.57,Cash,Bus Ticket,2025-03,Friday
+2025-05-15,Healthcare,4131.68,Credit Card,Fuel,2025-05,Thursday
+2025-01-03,Education,3250.67,Cash,Groceries,2025-01,Friday
+2025-03-11,Transport,183.96,Credit Card,Groceries,2025-03,Tuesday
+2025-05-07,Bills,1171.57,Credit Card,Bus Ticket,2025-05,Wednesday
+2025-03-25,Education,2437.25,Debit Card,Medicine,2025-03,Tuesday
+2025-02-16,Entertainment,743.16,Credit Card,Movie,2025-02,Sunday
+2025-06-23,Food,2339.92,UPI,Movie,2025-06,Monday
+2025-06-07,Shopping,412.91,Debit Card,Bus Ticket,2025-06,Saturday
+2025-04-20,Food,4736.53,Cash,Lunch,2025-04,Sunday
+2025-05-25,Education,3799.97,Credit Card,Movie,2025-05,Sunday
+2025-01-24,Food,4591.58,UPI,Electricity Bill,2025-01,Friday
+2025-03-12,Bills,4635.31,Cash,Online Course,2025-03,Wednesday
+2025-06-19,Food,719.79,Debit Card,Bus Ticket,2025-06,Thursday
+2025-03-07,Entertainment,1209.05,UPI,Fuel,2025-03,Friday
+2025-05-31,Healthcare,1478.8,Credit Card,Electricity Bill,2025-05,Saturday
+2025-06-26,Travel,1120.37,Debit Card,Fuel,2025-06,Thursday
+2025-02-10,Transport,3284.21,Credit Card,Groceries,2025-02,Monday
+2025-01-16,Transport,4446.27,Debit Card,Online Course,2025-01,Thursday
+2025-03-25,Healthcare,3596.48,Credit Card,Lunch,2025-03,Tuesday
+2025-04-26,Food,966.18,Debit Card,Online Course,2025-04,Saturday
+2025-06-01,Bills,1332.08,Debit Card,Bus Ticket,2025-06,Sunday
+2025-03-01,Food,498.04,UPI,Groceries,2025-03,Saturday
+2025-05-03,Healthcare,813.5,Debit Card,Lunch,2025-05,Saturday
+2025-04-30,Food,2265.23,Cash,Groceries,2025-04,Wednesday
+2025-06-30,Bills,4741.0,Cash,Movie,2025-06,Monday
+2025-04-01,Travel,4255.66,Cash,Movie,2025-04,Tuesday
+2025-05-15,Travel,4315.81,Debit Card,Lunch,2025-05,Thursday
+2025-01-30,Transport,1427.81,Credit Card,Movie,2025-01,Thursday
+2025-02-16,Healthcare,3953.34,Debit Card,Lunch,2025-02,Sunday
+2025-02-16,Transport,2804.49,Cash,Fuel,2025-02,Sunday
+2025-04-18,Travel,1119.93,Credit Card,Lunch,2025-04,Friday
+2025-05-01,Bills,1563.38,Cash,Fuel,2025-05,Thursday
+2025-06-14,Bills,3916.58,Credit Card,Lunch,2025-06,Saturday
+2025-04-21,Travel,4639.96,UPI,Fuel,2025-04,Monday
+2025-06-01,Food,3616.86,Credit Card,Groceries,2025-06,Sunday
+2025-01-22,Healthcare,3659.71,UPI,Lunch,2025-01,Wednesday
+2025-01-11,Food,2333.72,Cash,Lunch,2025-01,Saturday
+2025-02-20,Bills,3621.84,Cash,Medicine,2025-02,Thursday
+2025-05-31,Healthcare,4302.64,Debit Card,Groceries,2025-05,Saturday
+2025-01-28,Bills,4620.84,UPI,Fuel,2025-01,Tuesday
+2025-02-13,Transport,1507.86,Credit Card,Bus Ticket,2025-02,Thursday
+2025-02-03,Food,1095.44,Credit Card,Online Course,2025-02,Monday
+2025-01-09,Education,428.31,Cash,Online Course,2025-01,Thursday
+2025-05-04,Healthcare,4748.11,Debit Card,Fuel,2025-05,Sunday
+2025-05-02,Food,919.06,Debit Card,Movie,2025-05,Friday
+2025-05-29,Education,4975.29,Cash,Online Course,2025-05,Thursday
+2025-04-20,Shopping,846.7,UPI,Groceries,2025-04,Sunday
+2025-02-10,Shopping,394.39,Credit Card,Fuel,2025-02,Monday
+2025-01-09,Bills,4608.32,UPI,Lunch,2025-01,Thursday
+2025-05-22,Bills,3294.46,Debit Card,Online Course,2025-05,Thursday
+2025-04-13,Healthcare,1849.06,Cash,Medicine,2025-04,Sunday
+2025-02-27,Transport,2066.47,Cash,Medicine,2025-02,Thursday
+2025-02-24,Entertainment,2595.87,Cash,Bus Ticket,2025-02,Monday
+2025-03-08,Transport,3982.84,UPI,Medicine,2025-03,Saturday
+2025-06-23,Travel,2335.52,Credit Card,Electricity Bill,2025-06,Monday
+2025-06-26,Travel,1276.11,Cash,Bus Ticket,2025-06,Thursday
+2025-06-18,Travel,818.88,UPI,Medicine,2025-06,Wednesday
+2025-05-11,Bills,3243.33,Debit Card,Medicine,2025-05,Sunday
+2025-06-23,Entertainment,1601.48,Debit Card,Groceries,2025-06,Monday
+2025-04-18,Travel,4533.03,UPI,Lunch,2025-04,Friday
+2025-05-11,Travel,630.4,Credit Card,Bus Ticket,2025-05,Sunday
+2025-04-07,Travel,3790.87,Credit Card,Medicine,2025-04,Monday
+2025-03-10,Food,2205.67,Cash,Bus Ticket,2025-03,Monday
+2025-04-24,Healthcare,3111.78,UPI,Groceries,2025-04,Thursday
+2025-05-26,Transport,433.08,Credit Card,Medicine,2025-05,Monday
+2025-03-29,Education,1959.8,Debit Card,Electricity Bill,2025-03,Saturday
+2025-05-09,Transport,4199.9,Cash,Lunch,2025-05,Friday
+2025-01-21,Education,3049.28,Credit Card,Fuel,2025-01,Tuesday
+2025-05-29,Shopping,4781.78,Debit Card,Groceries,2025-05,Thursday
+2025-04-22,Education,2342.9,Debit Card,Online Course,2025-04,Tuesday
+2025-04-15,Entertainment,542.49,Cash,Bus Ticket,2025-04,Tuesday
+2025-06-09,Food,3561.09,UPI,Electricity Bill,2025-06,Monday
+2025-05-24,Transport,2560.75,Cash,Lunch,2025-05,Saturday
+2025-05-27,Bills,4273.46,Debit Card,Lunch,2025-05,Tuesday
+2025-05-04,Transport,744.58,Cash,Groceries,2025-05,Sunday
+2025-01-03,Transport,618.53,Credit Card,Movie,2025-01,Friday
+2025-06-29,Entertainment,2667.54,Debit Card,Electricity Bill,2025-06,Sunday
+2025-04-21,Food,636.85,Debit Card,Bus Ticket,2025-04,Monday
+2025-05-13,Food,4561.79,Credit Card,Online Course,2025-05,Tuesday
+2025-04-29,Food,2814.02,Debit Card,Bus Ticket,2025-04,Tuesday
+2025-04-08,Food,2828.92,Credit Card,Fuel,2025-04,Tuesday
+2025-02-08,Entertainment,1223.21,Debit Card,Groceries,2025-02,Saturday
+2025-01-16,Healthcare,2497.12,Credit Card,Medicine,2025-01,Thursday
